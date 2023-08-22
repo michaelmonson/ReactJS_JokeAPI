@@ -3,6 +3,37 @@
 
 In this project I created a React Application that will find and return Chuck Norris jokes.  Since this project was designed to test Javascript fundamentals and basic React skills, there will be comments and instructions provided to help with non-React specific tools.
 
+## PROJECT STRUCTURE
+- public/:           This directory contains static assets, including the index.html file, which is the entry point of your React app.
+                     The public folder is used for assets that won't be processed by Webpack, such as images or favicon.ico.
+- src/:              This is the heart of your application! All React components and JavaScript files reside here. The main entry point, index.js, is located in this directory.
+- src/index.js:      This file is the entry point of your React application. It typically contains the ReactDOM.render() function to render your app into the index.html file.
+- src/App.js:        Usually the main component that acts as the container for the application.  It is where routing is defined and other high-level components.
+- src/components/:   Directory houses all individual components. For example, Home.js, Jokes.js, Categories.js, and other components representing different parts of the App.
+- package.json:      This file contains your project's dependencies, scripts, and other metadata related to the project.
+- node_modules/:     Directory stores all external dependencies of the project, installed via npm (node package manager).
+- package-lock.json: Automatically generated file that tracks the exact versions of the installed npm packages to ensure consistent installations across different environments.
+      my-react-app/
+      ├── public/
+      │   ├── index.html
+      │   └── ...
+      ├── src/
+      │   ├── index.js
+      │   ├── App.js
+      │   ├── App.css      
+      │   ├── components/    
+      │   ├── pages
+      │   │   ├── Categories.js
+      │   │   ├── Home.js
+      │   │   ├── Jokes.js
+      │   │   ├── Search.js      
+      │   │   └── Page404.js
+      │   └── ...
+      ├── package.json
+      ├── node_modules/
+      ├── package-lock.json
+      └── ...
+
 ## IMPORTANT --
 To more clearly showcase your React skill, you will need to follow a couple of procedural steps.
 1. Before you work on each step of this React certification you will need create a new branch specifically for that step.
