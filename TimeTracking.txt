@@ -1,0 +1,20 @@
+I have created this file to track the time spent on this certification, which I will update each time when I commit code across in commits and a PR.
+
+2023-07-24 : 60 min : Success!  Routing now works!  I didn't have any resources available on STG Slack, but after fixing several problems myself, 
+                      a combination of ChatGPT and Google Bard helped me zero in on the final issue.  I have began using generative A.I. (LLC models) to troubleshoot.  
+                      A.I. is now my "duck!" when I am working through certain programming issues!
+2023-07-23 : 45 min : Spent another bit of time right before bed... got past more issues; still not quite working.  No errors, and blank page.
+2023-07-23 : 90 min : Cleaned up routing in the evening.  Taking a long time to get this working.  But it will be great! (8:30pm - 10:00pm)
+2023-07-23 : 30 min : Did some initial work inthe morning.  Unscuccessful in getting routing fixed (9:45am)
+2023-07-22 : 20 min : Continuing with routing.  Only halfway done before. Family needed me, so I cut my session short.
+2023-07-17 : 30 min : Working on Routing.  Lots of reading to figure out how to make it work. (unfinished, but it's nearing midnight... holding off until tomorrow)
+2023-06-21 : 90 min : Synched up Visual Studio Code (IDE) to Atlassian... both JIRA and BitBucket.  Issues with "SourceTree" not loading; may be a process in background.
+2023-06-20 : 25 min : With the right project in place, the first branch "Initialize" was easy.  Just clearing my "Render" method out.  Committed and merged.
+2023-06-19 : 20 min : It's been a week since I last worked on this.  And I realize I hadn't loaded it into my IDE yet (VS Code)
+                      I realized I was looking at my "first react" project, a separate project from this cerification. 
+2023-06-13 : 1 hour : Working on the separate tutorial (by Mosh) to get some basics down.
+2023-06-04 : 45 min : Spent time reading about React.js
+2023-05-27 : 1 hour : Initializing my React App (7:15am - 8:15am)
+2023-05-16 : 1 hour : Organizing my project, reading through the resources referenced in the project.  (10:45pm - 11:40pm)
+2023-05-14 : 90 min : Working on an awesome REACT tutorial called "React Tutorial for Beginners" ~ Code with Mosh
+2023-05-09 : 1 hour : Beginning the REACT certification.  Time spent reading the README and familiarizing myself with the project and processes.
